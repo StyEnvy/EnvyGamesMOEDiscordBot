@@ -1,0 +1,32 @@
+{
+  "Servers": [
+    {
+      "Name": "Minfeng - Liangfu PVE",
+      "Description": "Envy Games",
+      "Port": 5001
+    },
+    {
+      "Name": "Minfeng - Jingbei PVP",
+      "Description": "Envy Games",
+      "Port": 5007
+    },
+    {
+      "Name": "Minfeng - Xingba PVP",
+      "Description": "Envy Games",
+      "Port": 5013
+    },
+    {
+      "Name": "Peishan - Shenzhuang PVE",
+      "Description": "Envy Games",
+      "Port": 5004
+    },
+    {
+      "Name": "Peishan - Cangzhen PVP",
+      "Description": "Envy Games",
+      "Port": 5010
+    }
+  ],
+  "Debug": false,
+  "Logging": true,
+  "EmbedChannelID": ""
+}
